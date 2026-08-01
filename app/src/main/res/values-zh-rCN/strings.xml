@@ -1,0 +1,10 @@
+<![CDATA<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hermes Android</string>
+    <string name="welcome_message">欢迎使用 Hermes Android</string>
+    <string name="settings_title">设置</string>
+    <string name="language_setting">语言设置</string>
+ <string name="about_title">关于</string>
+    <string name="version_info">版本信息</string>
+</resources>
+]]>
