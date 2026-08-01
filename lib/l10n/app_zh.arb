@@ -1,0 +1,15 @@
+{
+  "@@locale": "zh",
+  "appTitle": "赫尔墨斯代理",
+  "connectionList": "连接列表",
+  "addConnection": "添加连接",
+  "editConnection": "编辑连接", "deleteConnection": "删除连接",
+  "save": "保存",
+  "cancel": "取消",
+  "confirmDelete": "确定要删除此连接吗？",
+  "noConnections": "未找到连接。",
+  "themeMode": "主题模式",
+  "systemDefault": "系统默认",
+  "light": "浅色",
+  "dark": "深色"
+}

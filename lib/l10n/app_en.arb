@@ -1,0 +1,14 @@
+<![CDATA{
+  "@@locale": "en",
+  "appTitle": "Hermes Agent",
+  "connectionList": "Connections",
+  "addConnection": "Add Connection",
+  "editConnection": "Edit Connection",
+  "deleteConnection": "Delete Connection", "save": "Save",
+  "cancel": "Cancel", "confirmDelete": "Are you sure you want to delete this connection?",
+  "noConnections": "No connections found.",
+  "themeMode": "Theme Mode",
+  "systemDefault": "System Default",
+  "light": "Light",
+  "dark": "Dark"
+}]]>
